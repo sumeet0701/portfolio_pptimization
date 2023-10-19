@@ -1,0 +1,11 @@
+requests
+matplotlib
+numpy
+pandas
+seaborn
+scipy
+fake_useragent
+python_dateutil
+scikit_learn
+plotly
+-e .
